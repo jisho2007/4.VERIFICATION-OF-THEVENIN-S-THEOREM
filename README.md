@@ -1,4 +1,4 @@
-# 4.VERIFICATION-OF-THEVENIN-S-THEOREM
+jhghhhhhhh,ttttttttttttttttttttt# 4.VERIFICATION-OF-THEVENIN-S-THEOREM
 
 **AIM:**
 
@@ -85,6 +85,7 @@ Thevenin’s equivalent circuit
 **CALCULATION**
 ![WhatsApp Image 2026-03-17 at 6 44 35 PM](https://github.com/user-attachments/assets/f101d9d3-5dee-4423-a4e2-d24f5337021f)
 **MARKS SPILT UP**
-![WhatsApp Image 2026-03-17 at 6 46 00 PM](https://github.com/user-attachments/assets/7eced1bb-b21a-4b61-bf2f-9afe71fa7681)
+![WhatsApp Image 2026-03-26 at 10 20 57 AM](https://github.com/user-attachments/assets/903cdd57-4db4-4f28-ba6f-df886fb2fcdd)
+
 **RESULT**
 the thevenin theorem is verfied
